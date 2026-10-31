@@ -217,7 +217,3 @@ If you find a problem that depends on the T7 firmware or the LJM version (for ex
 ├── README.md
 └── LICENSE
 ```
-
-## License
-
-Choose a license for your repository (for example MIT) and add a `LICENSE` file.
